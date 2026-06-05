@@ -9,7 +9,7 @@ Run on Mac:
 
 
 Project structure:
-- app/main.py              UI polished V24
+- app/main.py              
 - core/analysis.py         analysis logic, unchanged from uploaded file
 - core/audio_io.py         audio device helper, unchanged
 - core/calibration.py      calibration helper, unchanged
